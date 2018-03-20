@@ -1,0 +1,10 @@
+D:\xx\RedisDome\RedisDome\bin\RedisDome.dll.config
+D:\xx\RedisDome\RedisDome\bin\RedisDome.dll
+D:\xx\RedisDome\RedisDome\bin\RedisDome.pdb
+D:\xx\RedisDome\RedisDome\bin\ServiceStack.Common.dll
+D:\xx\RedisDome\RedisDome\bin\ServiceStack.Interfaces.dll
+D:\xx\RedisDome\RedisDome\bin\ServiceStack.Redis.dll
+D:\xx\RedisDome\RedisDome\bin\ServiceStack.Text.dll
+D:\xx\RedisDome\RedisDome\obj\Debug\RedisDome.csprojResolveAssemblyReference.cache
+D:\xx\RedisDome\RedisDome\obj\Debug\RedisDome.dll
+D:\xx\RedisDome\RedisDome\obj\Debug\RedisDome.pdb
